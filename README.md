@@ -1,4 +1,4 @@
-# kafkaTools
+# KafkaTools
 A set of helper scripts for managing Apache Kafka
 
 Grab and untar the latest Apache Kafka:  
